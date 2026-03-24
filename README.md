@@ -26,7 +26,7 @@
 ---
 
 ## 📎 Ссылки
-- [Код тестов](LAB3_KostrikinAndrey245/src/test/VendingMachineTest.java)
+- [Код тестов](LAB3_KostrikinAndrey245/test/VendingMachineTest.java)
 - [Основной класс](LAB3_KostrikinAndrey245/src/VendingMachine.java)
 
 *Дата: 11.03.2026*
