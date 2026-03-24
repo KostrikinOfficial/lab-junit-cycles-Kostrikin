@@ -1,4 +1,4 @@
-<img width="1376" height="985" alt="image" src="https://github.com/user-attachments/assets/8fb857d0-cde7-43cd-9b14-0ad50383404e" /># Лабораторная работа №2_1: Тестовое окружение в JUnit
+
 
 ## 👨‍🎓 Студент
 - **ФИО:** Кострикин Андрей Игоревич
